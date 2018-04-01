@@ -1,0 +1,16 @@
+{
+  "name": "command-builder",
+  "version": "1.0.0",
+  "description": "Command builder to easily encapsulate and call functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyogman/command-builder.git"
+  },
+  "keywords": ["command", "pattern", "node"],
+  "author": "henry yogman",
+  "license": "MIT"
+}
